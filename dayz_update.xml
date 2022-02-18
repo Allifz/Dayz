@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
 	<update>
-		<version>1.1</version>
+		<version>1.0</version>
 		<file>UPDATE.zip</file>		
 		<html>15.204.149.144/DayZ/Update/UPDATE.zip</html>		
 		<command>false</command>
 		<execute>false</execute>
 	</update>
 	<update>
-		<version>1.2</version>
+		<version>1.1</version>
 		<file>UPDATE.zip</file>		
 		<html>15.204.149.144/DayZ/Update/UPDATE.zip</html>		
 		<command>false</command>
