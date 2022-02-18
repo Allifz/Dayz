@@ -4,8 +4,8 @@
 		<version>1.1</version>
 		<file>Teste.zip</file>		
 		<html>15.204.149.144/DayZ/Update/Teste.zip</html>		
-		<command>false</command>
-		<execute>false</execute>
+		<command>true</command>
+		<execute>true</execute>
 	</update>
 
 </root>
