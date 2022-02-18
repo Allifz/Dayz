@@ -7,5 +7,11 @@
 		<command>true</command>
 		<execute>true</execute>
 	</update>
-
+	<update>
+		<version>1.2</version>
+		<file>Teste.zip</file>		
+		<html>15.204.149.144/DayZ/Update/UPDATE.zip</html>		
+		<command>true</command>
+		<execute>true</execute>
+	</update>
 </root>
