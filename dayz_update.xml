@@ -2,17 +2,10 @@
 <root>
 	<update>
 		<version>1.1</version>
-		<file>DayZ.zip</file>		
-		<html>15.204.149.144/DayZ/Update/DayZ.zip</html>		
-		<command>false</command>
-		<execute>false</execute>
-	</update>
-	<update>
-		<version>1.2</version>
 		<file>DayZUpdate.zip</file>		
 		<html>135.148.159.155/Dayz/DayzUpdate.zip</html>		
-		<command>false</command>
-		<execute>false</execute>
+		<command>true</command>
+		<execute>true</execute>
 	</update>
 
 </root>
